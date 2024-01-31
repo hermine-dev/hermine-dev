@@ -1,7 +1,7 @@
 # Hello, I'm Hermine!👋
 
 ## 👩‍💻 About me
-### Frontend Developer | Armenia 🇦🇲 | Worldwide 🌍 |
+### Frontend Developer | Worldwide 🌍
 
 I'm a dedicated frontend developer with a passion for crafting exceptional web experiences. With 7 years of experience, I bring expertise in creating captivating user interfaces and seamless interactions.
 
